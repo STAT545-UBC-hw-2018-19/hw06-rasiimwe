@@ -17,7 +17,7 @@ Be the boss of non-numeric data, esp. character and factor:
 
 |   **Homework Files**   | **Description** |
 |----------------|------------|
-|[Link to homework5](http://stat545.com/Classroom/assignments/hw06/hw06.html)|This file contains homework 6 tasks and their descriptions|
+|[Link to homework6](http://stat545.com/Classroom/assignments/hw06/hw06.html)|This file contains homework 6 tasks and their descriptions|
 |[README.md](https://github.com/STAT545-UBC-students/hw05-rasiimwe/blob/master/README.md)|This readme.md file provides an overview of the ghist of this repo and provides useful pointers to key files in my homework-5 repo. Herein, are also links to past files that provide an introduction to data exploration and analysis |
 |**[Link to homework-06]()**|This file contains |
 
