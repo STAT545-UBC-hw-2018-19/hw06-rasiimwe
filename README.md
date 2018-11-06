@@ -37,6 +37,6 @@ str_detect(courses, "BIOF501")
 |   **Homework Files**   | **Description** |
 |----------------|------------|
 |[Link to homework6](http://stat545.com/Classroom/assignments/hw06/hw06.html)|This file contains homework 6 tasks and their descriptions|
-|[README.md](https://github.com/STAT545-UBC-students/hw05-rasiimwe/blob/master/README.md)|This readme.md file provides an overview of the ghist of this repo and provides useful pointers to key files in my homework-5 repo. Herein, are also links to past files that provide an introduction to data exploration and analysis |
-|**[Link to homework-06](https://github.com/STAT545-UBC-students/hw06-rasiimwe/blob/master/hw06-rasiimwe.md)**|This file contains |
+|[README.md](https://github.com/STAT545-UBC-students/hw06-rasiimwe/blob/master/README.md)|This readme.md file provides an overview of the ghist of this repo and provides useful pointers to key files in my homework-6 repo. Herein, are also links to past files that provide an introduction to data exploration and analysis |
+|**[Link to homework-06](https://github.com/STAT545-UBC-students/hw06-rasiimwe/blob/master/hw06-rasiimwe.md)**|This is the key home work file that contains and exploration and presentation of concepts on writing R functions, working with and character data and working with purrr, list-columns, nested data frames|
 
