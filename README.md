@@ -2,7 +2,7 @@
 # STAT-547M Homework 06 Repository of Rebecca Asiimwe 
 
 ## Theme: Data wrangling 
-[<img align ="right" src="https://github.com/STAT545-UBC-students/hw06-rasiimwe/blob/master/plugins/Screen%20Shot%202018-11-05%20at%207.39.13%20PM.png" width="400" height="250"/>](https://github.com/STAT545-UBC-students/hw06-rasiimwe/blob/master/plugins/Screen%20Shot%202018-11-05%20at%207.39.13%20PM.png)
+[<img align ="right" src="https://github.com/STAT545-UBC-students/hw06-rasiimwe/blob/master/plugins/Screen%20Shot%202018-11-05%20at%207.39.13%20PM.png" width="450" height="250"/>](https://github.com/STAT545-UBC-students/hw06-rasiimwe/blob/master/plugins/Screen%20Shot%202018-11-05%20at%207.39.13%20PM.png)
 ### Assignment overview 
 
 This assignment covers concepts involved in working with non-numeric (character and factor) and covers the following key areas:
