@@ -4,7 +4,7 @@
 ## Theme: Data wrangling 
 
 ### Assignment overview 
-[<img align ="right" src="https://github.com/STAT545-UBC-students/hw06-rasiimwe/blob/master/plugins/Screen%20Shot%202018-11-01%20at%208.57.14%20PM.png" width="400" height="250"/>](https://github.com/STAT545-UBC-students/hw06-rasiimwe/blob/master/plugins/Screen%20Shot%202018-11-01%20at%208.57.14%20PM.png)
+[<img align ="right" src="https://github.com/STAT545-UBC-students/hw06-rasiimwe/blob/master/plugins/Screen%20Shot%202018-11-05%20at%207.39.13%20PM.png" width="400" height="250"/>](https://github.com/STAT545-UBC-students/hw06-rasiimwe/blob/master/plugins/Screen%20Shot%202018-11-05%20at%207.39.13%20PM.png)
 Be the boss of non-numeric data, esp. character and factor:
 * Writing your own R functions 
 * Regular expressions and character data
