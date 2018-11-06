@@ -9,7 +9,6 @@ Be the boss of non-numeric data, esp. character and factor:
 * Writing your own R functions 
 * Regular expressions and character data
 * purrr, list-columns, nested data frames
-[<img align ="right" src="https://github.com/STAT545-UBC-students/hw06-rasiimwe/blob/master/plugins/hex-purrr.png" width="100" height="100"/>](https://github.com/STAT545-UBC-students/hw06-rasiimwe/blob/master/plugins/hex-purrr.png)
 
 
 
